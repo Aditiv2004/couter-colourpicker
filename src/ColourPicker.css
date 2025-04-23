@@ -1,0 +1,14 @@
+.container{
+     width:"300px";
+      height:"300px";
+       border:"1px solid white";
+    border-radius:"20px";
+    justify-items: center;
+    align-content: center;
+    margin: 20px;
+  
+}
+select{
+    padding: 10px;
+    background: transparent;
+}
